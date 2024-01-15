@@ -12,8 +12,7 @@ other Resnet) have six dense layers, while the other two have
 twelve dense layers; all the layers have the same number of
 neurons.
 
-First, when you clone this, activate the venv. 
-Then run:
+To run the Main code use:
 
 ```
 
