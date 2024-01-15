@@ -12,9 +12,14 @@ other Resnet) have six dense layers, while the other two have
 twelve dense layers; all the layers have the same number of
 neurons.
 
-To run the Main code use:
+To run the Main code, use:
 
 ```
 
 python main.py run
+```
+I would advise to create a new virtual environment:
+
+```
+python -m venv /path/to/new/virtual/environment
 ```
