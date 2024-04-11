@@ -12,6 +12,12 @@ other Resnet) have six dense layers, while the other two have
 twelve dense layers; all the layers have the same number of
 neurons.
 
+Before running the Main code, remember to install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
 To run the Main code, use:
 
 ```
@@ -23,3 +29,4 @@ I would advise to create a new virtual environment:
 ```
 python -m venv /path/to/new/virtual/environment
 ```
+
